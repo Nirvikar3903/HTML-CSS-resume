@@ -1,0 +1,91 @@
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  margin: 0;
+}
+h1{
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 5px;
+}
+h4{
+  margin-bottom: 20px;
+  
+}
+p{
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1d4e79;
+  color: white;
+  padding: 20px 50px 2px 50px;
+}
+.info {
+  width: 70vw;
+  letter-spacing: 0.5px;
+}
+.image {
+  border-radius: 12px solid white;
+}
+.icons {
+  display: flex;
+  justify-content: flex-start;
+  gap: 40px;
+}
+/* Correct this */
+.headings{
+  color: white;
+  background-color: #346d9f;
+  padding: 10px 60px 10px 60px;
+  padding-left: 50px;
+  margin-top: 5px;
+}
+hr {
+  border:  #346d9f solid 1px;
+  margin-right: 150px;
+  margin-top: 7px;
+}
+h5{
+  font-weight: bold;
+  font-size: 15px;
+}
+span{
+  font-size: 14px;
+}
+.job {
+  display: flex;
+  gap: 5px;
+}
+.left-section {
+  width: 10vw;
+  text-align: end;
+  margin:20px;
+}
+.right-section {
+  width: 75vw;
+  text-align: start;
+  margin:20px;
+}
+.work-experince {
+  padding: 10px 0 10px 0;
+  padding-top:30px ;
+}
+.education {
+  display: flex;
+  gap: 5px;
+}
+.education-details {
+  padding-bottom: 40px;
+}
+
+.communication {
+  width: 80vw;
+  padding-left: 80px;
+  margin-bottom: 40px;
+  padding-top: 30px;
+}
